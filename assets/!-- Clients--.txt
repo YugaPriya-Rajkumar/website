@@ -1,0 +1,24 @@
+!-- Clients-->
+<section class="bg-light" id="clients">
+    <div class="container px-5">
+        <div class="row gx-5 align-items-center justify-content-center justify-content-lg-between">
+            <div class="col-sm-8 col-md-6">
+                <!--<div class="px-5 px-sm-0"><img class="img-fluid rounded-circle" src="assets/img/clearimg.png" alt="..." /></div>-->
+                <video muted="muted" class="rounded" autoplay="" loop="" style="max-width: 100%; height: 100%"><source src="assets/img/OurClient.mp4" type="video/mp4" /></video>
+            </div>
+            <div class="col-12 col-lg-5">
+                <h2 class="display-4 lh-1 mb-4" style='color: #111ba6;'>Our Clients</h2>
+                <p class="lead fw-normal text-muted mb-5 mb-lg-0">
+                    <ul>
+                        <h4 style='color: #111ba6;'>Evolution Funding</h4>
+                        <li>Evolution Funding provides digital finance solutions that help our partners build motor finance journeys. This technology is transforming the customer experience of taking out motor finance.</li><br/>
+                        <h4 style='color: #111ba6;'>IGT</h4>
+                        <li>IGT Solutions is a next-gen customer experience (CX) company, defining and delivering AI-led transformative experiences for the global and most innovative brands using digital technologies. With the combination of Digital and Human Intelligence, IGT becomes the preferred partner for managing end-to-end CX journeys across Travel and High Growth Tech industries.</li><br>
+                        <h4 style='color: #111ba6;'>Connect4U</h4>
+                        <li>Join the enhanced experience of Connect 4U system, which offers a smart and efficient solution for residential and industrial buildings, individuals and institutions, all at the touch of a button.</li><br>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
